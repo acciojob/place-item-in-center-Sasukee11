@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+.container{
+	display:flex;
+	align-items:center; 
+	justify-content:center;
+	marigin: auto;
+}
